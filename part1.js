@@ -13,3 +13,9 @@ let guestList=`Guest:
 3.micheal
 4.john cina`;
 console.log(guestList); 
+
+//what if we use single or double quote for multiple line
+// let credit="mohsin mama,
+// mami,shawon,fiaz";  
+//here we get compile time error.the solution is \n
+// console.log(credit);
